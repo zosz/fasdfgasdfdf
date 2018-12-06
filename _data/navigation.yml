@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "User Guide"
+    url: /user-guide
+  - title: "Developer Guide"
+    url: /developer-guide
+  - title: "Common Errors"
+    url: /errors
+  - title: "Module Directory"
+    url: /modules
+  - title: '<i class="fa fa-github fa-lg" aria-hidden="true"></i> GitHub'
+    url: https://github.com/tera-proxy/tera-proxy
+
+# error links
+errors:
+  - title: "Errors - Proxy"
+    url: /errors/proxy
+  - title: "Errors - BigInt"
+    url: /errors/bigint
+  - title: "Errors - NodeJs"
+    url: /errors/nodejs
+  - title: "Errors - Game"
+    url: /errors/game
+  - title: "Errors – VPN"
+    url: /errors/vpn
