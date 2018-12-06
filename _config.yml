@@ -4,9 +4,9 @@ title           : "TERA Proxy"
 title_separator : "-"
 name            : "Risenio"
 description     : "Simple, easy, modular event handling through a TERA proxy server."
-url             : "https://risenio.github.io"
+url             : "https://zosz.github.io"
 baseurl         : "/_"
-repository      : "risenio/_"
+repository      : "zosz/_"
 teaser          : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 # Social Sharing
