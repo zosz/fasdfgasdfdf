@@ -14,15 +14,15 @@ og_image        : "/assets/images/site-icon.png"
 
 # Site Author
 author:
-  name          : "Risenio"
+  name          : "Mie"
   avatar        : "https://avatars.githubusercontent.com/Risenio"
-  bio           : "A someone who is trying to help."
+  bio           : "A someone who is trying to help.\nThis is a updated fork of meishu's page."
   location      : "No where, really."
   email         : "iriora@qq.com"
-  uri           :
+  uri           : "https://streamable.com/s/ceetk/gpkyvc"
   github        : "Risenio"
   tumblr        :
-  youtube       : "https://streamable.com/ceetk"
+  youtube       :
 
 # Reading Files
 include:
@@ -38,7 +38,7 @@ exclude:
   - assets/js/vendor
   - Gemfile
   - LICENSE
-
+  
 # Sass/SCSS
 sass:
   style: compressed

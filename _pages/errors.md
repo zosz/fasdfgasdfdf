@@ -1,6 +1,6 @@
 ---
 permalink: /errors
-title: Common Errors
+title: Errors
 redirect_from:
   - /errors/
 sidebar:
@@ -8,7 +8,9 @@ sidebar:
 ---
 
 This category will be showing most common errors, the causes and the solution(if simple) for end-users and developers.
+
 Due to the overhead of the amount of errors, You can just Ctrl+f and type part of the error to find it faster than scrolling.
+
 Where? they're in the **navigation menu** at the left.
 
 ---
