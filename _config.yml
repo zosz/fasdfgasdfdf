@@ -4,9 +4,9 @@ title           : "TERA Proxy"
 title_separator : "-"
 name            : "Risenio"
 description     : "Simple, easy, modular event handling through a TERA proxy server."
-url             : "https://zosz.github.io"
-baseurl         : "/z"
-repository      : "zosz/z"
+url             : "https://risenio.github.io"
+baseurl         : "/_"
+repository      : "risenio/_"
 teaser          : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 # Social Sharing
@@ -16,11 +16,11 @@ og_image        : "/assets/images/site-icon.png"
 author:
   name          : "Mie"
   avatar        : "https://avatars.githubusercontent.com/Risenio"
-  bio           : "A someone who is trying to help.\nThis is a updated fork of meishu's page."
+  bio           : "A someone who is trying to help.This is a updated fork of meishu's page."
   location      : "No where, really."
-  email         : "iriora@qq.com"
-  uri           : "https://streamable.com/s/ceetk/gpkyvc"
-  github        : "Risenio"
+  email         :
+  uri           :
+  github        :
   tumblr        :
   youtube       :
 

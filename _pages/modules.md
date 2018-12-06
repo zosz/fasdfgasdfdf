@@ -78,7 +78,7 @@ categories:
 
 Here is a directory with links to a number of GitHub projects and developers who work with tera-proxy or other TERA modding programs. That means **all projects directly linked here are free and open source**.
 
-If you want to be added to this list, or you think a module has been miscategorized, [submit a PR](https://github.com/zosz/z/edit/gh-pages/_pages/modules.md) or DM me on discord `@Risenio#1785`.
+If you want to be added to this list, or you think a module has been miscategorized, [submit a issue](https://github.com/Risenio/_/issues/new) or DM me on discord `@Risenio#1785`.
 
 {% for category in page.categories %}
 {% assign names = "" | split: "" | where_exp: "item", "false" %}
